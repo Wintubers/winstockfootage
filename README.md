@@ -1,4 +1,4 @@
-# Winstockfootage
+# WinStockFootage
 Stock Footage of Windows Installs, for anyone to use in videos
 Created by the Wintuber Union
 
