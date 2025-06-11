@@ -6,7 +6,17 @@ body {
     background: linear-gradient(to bottom, #ff6666, #990000); /* Light red to dark red */
     color: white;
 }
-
+/* Video mobile fix */
+@media all and (max-width: 450px) {
+    video {
+        width: 200px
+    }
+}
+@media all and (min-width: 451px) {
+    video {
+        width: 400px
+    }
+}
 /* Section styling */
 section {
     padding: 40px;
